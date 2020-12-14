@@ -1,0 +1,32 @@
+_repo: Star-Ship_63950
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anderson, Poul
+    alias: Anderson, Poul William
+    birthdate: 1926
+    deathdate: 2001
+    gutenberg_agent_id: '25203'
+    url: http://www.gutenberg.org/2009/agents/25203
+    wikipedia: http://en.wikipedia.org/wiki/Poul_Anderson
+description: ''
+gutenberg_issued: '2020-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63950'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The psychotechnic league; bk. 3.
+subjects:
+- !lcc 'PS'
+- !lcsh 'Castaways -- Fiction'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Space ships -- Fiction'
+- GITenberg
+title: Star Ship
+url: http://www.gutenberg.org/ebooks/63950
